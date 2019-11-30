@@ -22,6 +22,12 @@ pip install mpi4py
 
 We fix the convolution layers to find the reasonable channel number for two fully connected layers.
 
+fc1 search from 100 neurons to 120 neurons.
+
+fc2 search from 60 neurons to 80 neurons.
+
+The GA algorithm recommanded results is 110 for fc1 and 63 for fc2.
+
 You can set the number of GPU to run with MPI.
 
 ## Run
