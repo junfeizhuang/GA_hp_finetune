@@ -34,5 +34,14 @@ mpiexec -n 1 python3 run.py -gpu 3
 
 ## Log
 
-The part of log shows as below:
-![res]()
+The log name is best_fit.py show as below
+
+```Python
+best_fit = [
+    (0, [113, 64], 13.168930053710938),
+    (1, [100, 61], 17.49201202392578),
+    (2, [103, 68], 15.625),
+    (3, [105, 72], 17.53194808959961),
+    (4, [110, 63], 21.026357650756836),
+]
+```
