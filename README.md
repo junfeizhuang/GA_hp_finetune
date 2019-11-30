@@ -40,7 +40,7 @@ mpiexec -n 1 python3 run.py -gpu 3
 
 ## Log
 
-The log name is [best_fit.py] show as below
+The log name is `best_fit.py` show as below
 
 ```Python
 best_fit = [
