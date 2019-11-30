@@ -1,4 +1,4 @@
-# Knowledge-distillation-example
+# GA_hp_finetune
 
 This is an easy example to use genetic algorithm finding the deep network architecture for a batter classification accuracy.
 
